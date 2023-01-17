@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">tp2</string>
+    <string-array name="list_produit">
+        <item>item1</item>
+        <item>item2</item>
+        <item>item3</item>
+    </string-array>
+    <string-array name="list_prix">
+        <item>12</item>
+        <item>35</item>
+        <item>18</item>
+    </string-array>
+</resources>
